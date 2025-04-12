@@ -62,3 +62,7 @@ A collection of Java programs demonstrating basic file operations (create, read,
 1. **Compile & Run**:
    ```bash
    javac <filename>.java && java <filename>
+
+   *output*:
+
+   ![Image](https://github.com/user-attachments/assets/4d78fc3e-0aea-4977-9d05-ec6dd9a7bbec)
